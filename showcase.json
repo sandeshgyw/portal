@@ -2680,5 +2680,19 @@
   "twitter": "https://twitter.com/nobleblocks",
   "youtube": "",
   "submittableId": "36650737"
+},
+{
+"id": "survey_ease",
+"name": "SurveyEase",
+"oneLiner": "Redefining the Survey Landscape",
+"website": "https://survey-ease.web.app",
+"tags": [
+  "Tools / Infrastructure"
+],
+"description": "A transformative survey experience, harnessing the power of emerging tech to provide a modern, user-friendly platform for efficient data gathering and insights.",
+"stats": "Working MVP",
+"logo": "/img/showcase/survey_ease_logo.png",
+"usesInternetIdentity": true,
+"twitter": "https://twitter.com/surveyEase"
 }
 ]
